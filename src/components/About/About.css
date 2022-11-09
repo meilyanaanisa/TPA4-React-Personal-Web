@@ -1,0 +1,19 @@
+.about-page{
+    margin: 0 25%;
+    align-items: center;
+}
+
+.about-page h2{
+    font-size: 35px;
+}
+
+img{
+    width: 70%;
+    margin: 5%;
+    padding-left: 5%;
+}
+
+.about-page p{
+    font-size: 20px;
+    color: #565654;
+}

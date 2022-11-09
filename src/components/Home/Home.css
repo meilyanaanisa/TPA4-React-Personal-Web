@@ -1,0 +1,48 @@
+.home-page{
+    width:auto;
+    height:100vh;
+    background: url('../assetsimg/homeimage.png') no-repeat center center/cover;
+}   
+
+.content-header {
+    color: #fff;
+    text-align: center;
+    padding-top: 10%;
+    font-size: 20px;
+    line-height:0;
+}
+
+.content-header h5{
+    font-size: 25px;
+}
+
+.content-header h3{
+    font-size: 65px;
+    color: #F9dc49;
+    text-shadow: red 2px 2px;
+}
+
+.content-header h4 {
+    font-size: 35px;
+}
+
+button{
+    background-color: transparant;
+    width: 10%;
+    height: 45px;
+    border: 0;
+    box-shadow: 0 5px 7px 0 rgba(0, 0, 0, 0.16);
+    border-radius: 5px;
+}
+
+button:hover{
+    box-shadow: 0 10px 15px #a26657;
+    transform: scale(1.03);
+}
+
+button a{
+    color: #692e2e;
+    text-decoration: none;
+    font-weight: 1000;
+
+}
