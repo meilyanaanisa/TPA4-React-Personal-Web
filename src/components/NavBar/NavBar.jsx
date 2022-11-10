@@ -7,7 +7,7 @@ function NavBar() {
     <nav className='navbar'>
     <h2>Meilyana ~ </h2>
     <ul>
-        <NavLink activeClassName='active' to='/' style={{textDecoration: 'none'}}>
+        <NavLink to='/' style={{textDecoration: 'none'}}>
         <li>Home</li>
         </NavLink>
 
