@@ -5,7 +5,6 @@ import './DetailCourse.css'
 const DetailCourse = () =>  {
 
     const { id } = useParams();
-    console.log(id);
 
     return (
         <section className="detailcourse-page">
