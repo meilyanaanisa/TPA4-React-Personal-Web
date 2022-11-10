@@ -21,7 +21,7 @@ navigation(`/course/${id}`);
         coursedata.map(el => {
 
           return (
-            <div className='course-content-detail'key={el.id}>
+            <div className='course-content-detail' key={el.id}>
               
              <img src={ el.gambar } />
               <h2>
