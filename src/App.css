@@ -5,4 +5,72 @@
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
 }
 
+/* tombol button di Home dan Blog */
+
+button{
+  background-color: transparant;
+  width: 20%;
+  height: 45px;
+  border: 0;
+  box-shadow: 0 5px 7px 0 rgba(0, 0, 0, 0.16);
+  border-radius: 5px;
+}
+
+button:hover{
+  box-shadow: 0 10px 15px #a26657;
+  transform: scale(1.03);
+}
+
+button a{
+  color: #692e2e;
+  text-decoration: none;
+  font-weight: 1000;
+
+}
+
+
+/* style footer */
+
+.footer{
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  margin-top: 5px;
+  padding: 20px 40px;
+  background: #9c867b;
+  color: #141312;
+}
+
+.footer-media-social{
+  margin-left: 40%;
+}
+
+.footer-media-social img {
+  width: 30px;
+  height: 30px;
+  padding: 5px;
+}
+
+.footer-nav h2{
+  font-size: 22px;
+}
+
+.footer-nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-nav ul li{
+  padding-top: 5px;
+  font-weight: 600;
+  color: #141312;
+}
+
+.footer ul li:hover {
+  color: #461409;
+}
+
+.footer-media{
+  text-align: center;
+}
 

@@ -23,7 +23,6 @@
 .navbar ul li{
     padding: 1rem;
     list-style: none;
-    color: black;
     font-size: 25px;
     color: #c7561e;
     font-weight: 600;
@@ -33,6 +32,3 @@
     color: #85332c;
 }
 
-/* .active {
-    color: #672418;
-} */

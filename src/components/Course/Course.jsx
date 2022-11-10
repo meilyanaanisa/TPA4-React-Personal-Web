@@ -29,9 +29,9 @@ navigation(`/course/${id}`);
               </h2>
 
               <p>{el.description}</p>
-              <div className="course-content-detail-button">
-              <button onClick={() => handleDetail(el.id)}>Baca Selengkapnya</button>
-              </div>
+              
+              <button className="course-content-detail-button" onClick={() => handleDetail(el.id)}>Baca Selengkapnya</button>
+             
             </div>
           ) 
         })
