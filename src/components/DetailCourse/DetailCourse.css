@@ -1,0 +1,19 @@
+.detailcourse-page{
+    margin: 80px 30%;
+}
+
+.detail-judul{
+    text-align: center;
+    font-size: 30px;
+    color: #5b545a;
+}
+
+.detail-gambar{
+   margin-left: 10px; 
+}
+
+.detail-deskripsi{
+    color: #333333;
+    font-size: 18px;
+    margin-left: 5%;
+}
