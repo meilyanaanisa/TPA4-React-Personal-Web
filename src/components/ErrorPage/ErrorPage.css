@@ -1,4 +1,10 @@
 .error-page{
-    margin: 50px 30%;
+    margin: 70px 30%;
     text-align: center;
 }
+
+.detail-error-button{
+    width: 50%;
+    font-size: 16px;
+    font-weight: 700;
+    }
