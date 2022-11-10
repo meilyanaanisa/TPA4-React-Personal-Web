@@ -1,4 +1,4 @@
-import {Route, Routes } from 'react-router-dom'
+import { Route, Routes } from 'react-router-dom'
 import './App.css'
 import About from './components/About/About'
 import Home from './components/Home/Home'
@@ -10,12 +10,11 @@ import NavBar from './components/NavBar/NavBar'
 import Footer from './components/Footer/Footer'
 
 function App() {
-  // const [count, setCount] = useState(0)
   return (
     <div className="container">
-    <NavBar />
+      <NavBar />
 
-    <Routes>
+      <Routes>
       
       <Route path='/' exact element={ <Home/> }/>
 
