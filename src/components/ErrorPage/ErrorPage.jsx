@@ -9,9 +9,11 @@ function ErrorPage() {
       <h1>Oops!</h1>
       <p>Sorry, an unexpected error has occurred.</p>
 
+    
       <Link to='/'>
-      <button> Back To Home </button>
+      <button className='detail-error-button'> Back To Home </button>
       </Link>
+    
     </div>
   );
 }
