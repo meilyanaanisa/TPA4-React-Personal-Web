@@ -7,7 +7,7 @@ import Course from './components/Course/Course'
 import DetailCourse from './components/DetailCourse'
 import Blog from './components/Blog/Blog'
 import NavBar from './components/NavBar/NavBar'
-import Footer from './components/Footer'
+import Footer from './components/Footer/Footer'
 
 function App() {
   // const [count, setCount] = useState(0)
