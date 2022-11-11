@@ -29,3 +29,15 @@
 .content-button{
     width: 10%;
 }
+
+@media screen and (max-width: 863px){
+    .content-button {
+        width: 15%;
+    }
+}
+
+@media screen and (max-width: 725px){
+    .content-button {
+        width: 15%;
+    }
+}

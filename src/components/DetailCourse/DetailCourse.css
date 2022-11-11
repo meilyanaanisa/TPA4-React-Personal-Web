@@ -17,3 +17,15 @@
     font-size: 18px;
     margin-left: 5%;
 }
+
+@media screen and (max-width: 863px){
+    .detailcourse-page{
+        margin: 80px 10%;
+    }
+}
+
+@media screen and (max-width: 725px){
+.detail-deskripsi{
+    margin-left: 10%;
+}
+}

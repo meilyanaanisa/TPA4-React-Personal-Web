@@ -19,3 +19,15 @@ img{
     font-size: 20px;
     color: #565654;
 }
+
+@media screen and (max-width: 863px){
+    .about-page{
+        margin: 0 15%;
+    }
+}
+
+@media screen and (max-width: 725px){
+    .about-page{
+        margin: 0 15%;
+    }
+}

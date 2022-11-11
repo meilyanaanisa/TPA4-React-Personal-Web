@@ -7,6 +7,10 @@
     color: #fff;
   }
   
+  .footer-media-description{
+    text-align: center;
+  }
+
   .footer-media-social{
     margin-left: 40%;
   }
@@ -41,8 +45,12 @@
     color: #461409;
   }
   
-  .footer-media{
-    text-align: center;
-  }
-  
-  
+  @media screen and (max-width: 725px){
+    .footer-media-description{
+        font-size: 14px;
+    }
+
+    .footer-media-social{
+      margin-
+    }
+}
