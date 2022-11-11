@@ -1,7 +1,7 @@
 .home-page{
     width:auto;
     height:100vh;
-    background: url('../assetsimg/homeimage.png') no-repeat center center/cover;
+    background: url('../../assets/homeimage.png') no-repeat center center/cover;
 }   
 
 .content-header {
