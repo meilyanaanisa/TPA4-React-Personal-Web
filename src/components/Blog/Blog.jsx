@@ -1,9 +1,9 @@
 import React from 'react'
 import './Blog.css'
-import netlify from '../assetsimg/netlify.jpg'
-import reactjs from '../assetsimg/reactjs.jpg'
-import htmlcss from '../assetsimg/htmlcss.jpg'
-import json from '../assetsimg/json.jpg'
+import netlify from '../../assets/netlify.jpg'
+import reactjs from '../../assets/reactjs.jpg'
+import htmlcss from '../../assets/htmlcss.jpg'
+import json from '../../assets/json.jpg'
 
 function Blog() {
   return (
