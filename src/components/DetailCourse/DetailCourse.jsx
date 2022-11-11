@@ -1,5 +1,5 @@
 import {useParams} from "react-router-dom"
-import courseData from '../Course/CourseData.json'
+import courseData from '../../CourseData.json'
 import './DetailCourse.css'
 
 const DetailCourse = () =>  {
