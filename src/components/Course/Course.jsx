@@ -1,7 +1,7 @@
 import React from 'react'
 import './Course.css'
 import { useNavigate } from 'react-router-dom'
-import coursedata from './CourseData.json'
+import coursedata from '../../CourseData.json'
 
 function Course() {
 
