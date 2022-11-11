@@ -1,6 +1,6 @@
 import React from "react"
 import './About.css'
-import ilustrasi from '../assetsimg/ilustration-satu.png'
+import ilustrasi from '../../assets/ilustration-satu.png'
 
 function About() {
   return (
