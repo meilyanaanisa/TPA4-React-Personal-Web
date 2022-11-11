@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import  ICInstagram  from '../assetsimg/instagram.png'
-import  ICLinkedin  from '../assetsimg/linkedin.png'
-import  ICGmail  from '../assetsimg/gmail.png'
+import  ICInstagram  from '../../assets/instagram.png'
+import  ICLinkedin  from '../../assets/linkedin.png'
+import  ICGmail  from '../../assets/gmail.png'
 import './Footer.css'
 
 
